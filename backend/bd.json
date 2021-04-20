@@ -1,0 +1,22 @@
+{
+  "participants": [
+    {
+      "id": 1,
+      "name": "Eduardo Sene Barbosa",
+      "checkin": false,
+      "date": "2021-03-22T20:20:34.272Z"
+    },
+    {
+      "id": 2,
+      "name": "Maria Jose da Silva",
+      "checkin": false,
+      "date": "2021-04-22T20:20:34.272Z"
+    },
+    {
+      "id": 3,
+      "name": "Joao da Cunhava Oliveira",
+      "checkin": false,
+      "date": "2021-03-22T20:20:34.272Z"
+    }
+  ]
+}

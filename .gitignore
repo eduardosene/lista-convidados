@@ -1,0 +1,9 @@
+# compiled output
+/dist
+/tmp
+/out-tsc
+# Only exists if Bazel was run
+/bazel-out
+# dependencies
+/backend/node_modules
+/frontend/node_modules
